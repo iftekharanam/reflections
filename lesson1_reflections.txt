@@ -1,0 +1,3 @@
+Compare different versions of a file using diff tool.
+For windows it is FC (file compare)
+for the Unix systems it is diff -u file1 file2, -u option is to increase readability
