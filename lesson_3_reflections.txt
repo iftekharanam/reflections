@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
+  A remorte repository would be useful for backing up codebase and sharing with others. 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  Pulling changes manually allows us to work on different files at the same time. 
+  Also automatic update might result in unstable codebase. 
