@@ -15,3 +15,8 @@ instead of another?
   A Branch creates a copy of the latest commit of a repository. A branch is created to share development 
   tasks in the same codebase. 
   
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  It can be used to compare the changes in the remote since checkout of that copy. When we 
+  make changes to the local copy and someone changes the remote copy, last known state of the 
+  remote helps finding out all the changes.
+  
