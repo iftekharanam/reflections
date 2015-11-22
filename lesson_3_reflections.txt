@@ -20,3 +20,6 @@ What is the benefit of having a copy of the last known state of the remote store
   make changes to the local copy and someone changes the remote copy, last known state of the 
   remote helps finding out all the changes.
   
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  Google Drive or Dropbox could be used for collaboration. Unlike Git the versioning of the documents 
+  will have less control. Therefore, it would be harder without Git or GitHub.
